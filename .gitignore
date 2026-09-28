@@ -2,3 +2,5 @@
 !.idea/runConfigurations/
 target/
 hoen-scanner.iml
+target/
+dependency-reduced-pom.xml
